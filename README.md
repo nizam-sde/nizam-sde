@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... FULL STACK DEVELOPMENT
 - 🌱 I’m currently learning ... Backend with NodeJs
 - 💞️ I’m looking to collaborate on ... Open Sources
-- 📫 How to reach me ... LinkedIn - mohammad-nizam-40145b363
+- 📫 How to reach me ... LinkedIn - nizam-sde
 - 😄 Pronouns: ... HE / HIM
 - ⚡ Fun fact: ... Creating Beautiful UI makes me feel Amazed😍
 - 👬 Connection ...  Love to build connections 

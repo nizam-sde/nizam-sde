@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nizam-sde
+<h1>- 👋 Hi, I’m @nizam-sde</h1>
 - 👀 I’m interested in ... FULL STACK DEVELOPMENT
 - 🌱 I’m currently learning ... Backend with NodeJs
 - 💞️ I’m looking to collaborate on ... Open Sources
